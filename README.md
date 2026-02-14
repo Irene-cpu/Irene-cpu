@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Irene
 
+I'm currently learning and building websites from scratch, focusing on clean layouts, structure, and problem-solving through code.
+
+I enjoy the process of turning ideas into real, working projects and adjusting design, fixing bugs, refining details.
+
+Right now I'm working with: HTML, CSS and starting Javascript.
+
+Outside of coding, I'. interested in design, blender and buidling things that feel meaningful and personal.
 <!--
 **Irene-cpu/Irene-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
