@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irene</h1>
-<h3 align="center">currently learning and building websites from scratch, focusing on clean layouts, structure, and problem-solving through code. I enjoy the process of turning ideas into real, working projects and adjusting design, fixing bugs, refining details. Right now I'm working with: HTML, CSS and starting Javascript. Outside of coding, I'. interested in design, blender and buidling things that feel meaningful and personal.</h3>
+<h3 align="center">currently learning and building websites from scratch, focusing on clean layouts, structure, and problem-solving through code. I enjoy the process of turning ideas into real, working projects and adjusting design, fixing bugs, refining details. Right now I'm working with: HTML, CSS and starting Javascript. Outside of coding, I'm interested in design, blender and buidling things that feel meaningful and personal.</h3>
 
 - 🌱 I’m currently learning **CSS, Javascript**
 
